@@ -1,0 +1,12 @@
+.content-wrapper {
+  margin-top: 5px;
+  padding: 0 18px; }
+
+.nav-wrapper {
+  margin: 10px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center; }
+  .nav-wrapper .list-nav {
+    background-color: red; }
